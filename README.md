@@ -2,7 +2,7 @@
 proyecto de prácticas - Metodología de software ISTLT
 # Mi Primer Proyecto GitHub
   ## Datos del estudiante -
-   **Nombre:** Tu Nombre Completo 
+   **Nombre:** Keyko Vernaza
    - **Carrera:** Desarrollo de Aplicaciones Web 
    - **Institución:** ISTLT 
    - **Período:** 2026-1  
