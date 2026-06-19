@@ -1,0 +1,5 @@
+Modelos del ciclo de vida del software: 
+1. Cascada 
+2. Espiral 
+3. Incremental 
+ Herramientas aprendidas: GitHub, Git, StarUML, Jira
